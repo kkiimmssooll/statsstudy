@@ -91,8 +91,8 @@ pd.get_dummies(house['PropertyType'], drop_first=True) ) # 범주형 변수 Prop
 
 ## 4.7 다항회귀와 스플라인 회귀
 > 응답변수와 예측변수가 반드시 선형일 필요는 없음! 비선형효과를 회귀분석
-![study_3](/stats_study/4.7.png)
 > 여전히 선형회귀모델로 분류(계수에 대해 선형이기 때문)
+![study_3](/stats_study/4.7.png)
 
 ⚠️ 다항회귀는 비선형 관계에 대해 어느 정도 곡률을 담아냄...?->선형회귀모델이지만 비선형도 담을 수 있다는 건가
 
